@@ -1,5 +1,5 @@
 # terminkalender
-App made with Vue.js + Bootstrap and hostet at AWS Amplify.
+App made with Vue.js and bootstrap. Hosted at AWS Amplify.
 Check the App here: https://dev6575.d3eqxeg36llvep.amplifyapp.com/
 
 
